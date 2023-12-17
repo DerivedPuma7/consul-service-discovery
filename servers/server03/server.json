@@ -3,5 +3,6 @@
     "bind_addr": "172.22.0.3",
     "bootstrap_expect": 3,
     "data_dir": "/tmp",
-    "retry_join": ["172.22.0.4", "172.21.0.4"]
+    "retry_join": ["172.22.0.4", "172.22.0.6"],
+    "node_name": "consulserver03"
 }
