@@ -3,5 +3,6 @@
     "bind_addr": "172.22.0.4",
     "bootstrap_expect": 3,
     "data_dir": "/tmp",
-    "node_name": "consulserver01"
+    "node_name": "consulserver01",
+    "encrypt": "GpBd2VvhhpY+djSwE91v5jUygjv6v/yfUQq97EnZdTk="
 }
